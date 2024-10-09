@@ -62,36 +62,4 @@ And you just stay there, for an hour or two, losing your thoughts in whatever da
 finally getting up and doing work. It would be 2am when you go to bed, again. And headache and a racing heart 
 tomorrow in school, as always. Stuck in this loop, nowhere to go. 
 
-# ---------------------
 
-@relax
-You can’t calm down. Your heart is racing so fast and so loud that you fear your parents might hear it from their  
-bedroom. Fortunately, they don’t.
-- @think: Think about what you can do
-
-@think
-You don’t think. You can’t think. A thousand random thoughts are popping up in your head, and you blast them off
-with rock. 
-- @rock: Rock is the best
-
-@rock
-Well, it’s one of the ways you usually relieve stress... But these days their effect weakens day to day. After 
-ten or twenty minutes, you just have an immense urge to cry or to throw yourself down the balcony. 
-- @dangerous: That’s a dangerous thought to have
-
-@dangerous
-Yes. Absolutely. One that, if you told anyone, would immediately get to the ears of your classmates, teachers, 
-and parents. Well, it’s not like you’re alone among your peers, but... You don’t like to think about being 
-treated as an incredibly fragile thing. 
-You don’t like to think about anything at all. 
-The music is muffled, to your ears. The drums beat hard on your heart, and you tremble with it. 
-- @get-out: What you really need is to get out of the system.
-
-@get-out
-When you refer to the system, you don’t mean the school, or the family. You don’t mean the country, either. 
-(Really, you think it’d be the same everywhere.)
-- @end: The system is this *world*
-
-@end
-game-over: true
-So you get out. For good this time.
