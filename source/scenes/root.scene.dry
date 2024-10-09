@@ -100,7 +100,7 @@ So you get out. For good this time.
 # ----------------------
 
 @despair
-# go-to: @things
+go-to: @things
 You think about the things you still have. Anything that may be worth struggling for.
 
 @things
