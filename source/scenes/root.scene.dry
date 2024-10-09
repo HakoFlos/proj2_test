@@ -9,7 +9,6 @@ And your heart starts racing just as you were about to start homework.
 
 - @attempt: Attempt to do homework nevertheless
 - @relax: Relax and recover
-- @despair: Let yourself sink in the sea of despair
 
 @attempt
 You can’t move. You can’t breathe. You feel like air is solidifying and crushing you to ashes. Your head hurts. 
@@ -96,39 +95,3 @@ When you refer to the system, you don’t mean the school, or the family. You do
 @end
 game-over: true
 So you get out. For good this time.
-
-# ----------------------
-
-@despair
-go-to: @things
-You think about the things you still have. Anything that may be worth struggling for.
-
-@things
-- @music: Music
-- @writing: Writing
-- @dream: Your dream
-- @nothing: There’s nothing else.
-
-@music
-go-to: @things
-max-visits: 1
-It’s been a long time you’ve found any new song that’s pleasant to listen to.
-
-@writing
-go-to: @things
-max-visits: 1
-It’s also been a long time since you wrote any thing worthy of calling a story...
-
-@dream
-go-to: @things
-max-visits: 1
-You still retain hopes, but it’s so far away that it seems fake, unreal, a bubbly made-up dream. You don’t think 
-you’ll live up to that day. 
-
-@nothing
-view-if: @music = 1 and @writing = 1 and @dream = 1
-game-over: true
-Admit it, you’re good at nothing... And you deserve this. 
-Black. Surrounded by impenetrable darkness, you can hardly breathe, suffocating, being in pain over and over. 
-The pain of *existence*. 
-
