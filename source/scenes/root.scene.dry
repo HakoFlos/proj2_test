@@ -2,16 +2,12 @@ title: Root
 new-page: true
 
 
-It’s a normal day. You return home after a tiresome day of school.
-And your heart starts racing just as you were about to start homework.
-...Great, another day wasted. Just like always.
+text.
 
-- @a : A.
+- @choice : pick choice.
 
 
-@a
-game-over: true
-what why how's this possibly wrong
-
+@choice
+wait this has to be a bug right
 
 
