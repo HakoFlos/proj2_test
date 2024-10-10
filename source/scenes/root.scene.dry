@@ -4,10 +4,10 @@ new-page: true
 
 text.
 
-- @choice : pick choice.
+- @choice: pick choice.
 
 
-@choice
+@choice 
 wait this has to be a bug right
 
 
