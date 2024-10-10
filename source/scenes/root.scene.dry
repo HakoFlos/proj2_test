@@ -7,12 +7,11 @@ And your heart starts racing just as you were about to start homework.
 ...Great, another day wasted. Just like always.
 
 - @a : A.
-- @b : B.
 
 
 @a
+game-over: true
 what why how's this possibly wrong
 
-@B
-???
+
 
