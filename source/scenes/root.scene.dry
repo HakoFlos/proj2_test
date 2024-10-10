@@ -3,6 +3,27 @@ new-page: true
 
 = About Anxiety
 
+- @start: Start
+- @warnings: Content Warnings
+
+@warnings
+
+Contains implications of self-suicide, depressing thoughts, offensive languange towards player, 
+negative content, etc. Heavily personal content.
+
+Please proceed with care.
+
+- @start: Continue
+- @no: Opt out
+
+@no
+game-over: true
+
+@start
+new-page: true
+
+= About Anxiety
+
 It’s a normal day. You return home after a tiresome day of school. And your heart starts racing just as you were 
 about to start homework.
 
